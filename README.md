@@ -1,5 +1,5 @@
-<h1>📊 Atliq P&L Report</h1>
-    <p>This repository contains <strong>financial and market performance insights</strong> for Atliq, generated from Excel and compiled into PDFs. The data has been analyzed to extract meaningful insights related to sales performance, gross margin trends, and profitability.</p>
+<h1>📊 AtliQ P&L Report</h1>
+    <p>This repository contains <strong>financial and market performance insights</strong> for AtliQ, generated from Excel and compiled into PDFs. The data has been analyzed to extract meaningful insights related to sales performance, gross margin trends, and profitability.</p>
 
    <h2>📂 Files in this Repository</h2>
     <p>The following PDF reports have been generated from Excel:</p>
